@@ -115,7 +115,7 @@
     <div class="countdown" id="countdown"></div>
 
     <div id="buttons">
-        <button class="yes1" onclick="sayYes()">Yesssss!!!!!</button>
+        <button class="yes1" onclick="sayYes()">Yesssss!!!!</button>
         <button class="yes2" onclick="sayYes()">Yesssss!!!</button>
     </div>
 
