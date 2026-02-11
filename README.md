@@ -13,7 +13,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        font-family: 'Arial', sans-serif;
+        font-family: 'new romans', sans-serif;
         background: linear-gradient(135deg, #ff5f8f, #ff9a9e);
         overflow: hidden;
         text-align: center;
@@ -30,7 +30,7 @@
     }
 
     h1 {
-        font-size: 2.5rem;
+        font-size: 3rem;
         min-height: 60px;
     }
 
@@ -134,7 +134,7 @@
 <script>
 // Typing animation
 const titleText = "Azii 💕";
-const messageText = "Out of all the people in the world... I choose you. Every time. 💖\n\nWill you be my Valentine?";
+const messageText = "To my chipolet bag and my beautiful tight pussy wife🙂‍↕️🙂‍↕️. 💖\n\nWill you be my Valentine?";
 
 let i = 0;
 let j = 0;
