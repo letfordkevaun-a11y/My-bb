@@ -1,5 +1,4 @@
 <html lang="en">
-<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Azii, Will You Be My Valentine?</title>
@@ -33,7 +32,7 @@
     }
 
     .message {
-        font-size: 2.0rem;
+        font-size: 2rem;
         margin: 20px 0;
         min-height: 90px;
     }
@@ -45,8 +44,8 @@
     }
 
     button {
-        padding: 28px 28px;
-        font-size: 3rem;
+        padding: 20px 28px;
+        font-size: 1.9rem;
         border: none;
         border-radius: 30px;
         cursor: pointer;
@@ -130,7 +129,6 @@
 </div>
 
 <script>
-// Typing animation
 const titleText = "Azii 💕";
 const messageText = "To my chipolet bag and my beautiful tight pussy wife🙂‍↕️🙂‍↕️. 💖\n\nWill you be my Valentine?";
 
