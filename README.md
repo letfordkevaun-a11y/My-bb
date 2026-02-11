@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -35,20 +33,20 @@
     }
 
     .message {
-        font-size: 1.2rem;
+        font-size: 2.0rem;
         margin: 20px 0;
-        min-height: 80px;
+        min-height: 90px;
     }
 
     .countdown {
-        font-size: 1.1rem;
+        font-size: 1.5rem;
         margin-bottom: 25px;
         font-weight: bold;
     }
 
     button {
-        padding: 12px 28px;
-        font-size: 1rem;
+        padding: 28px 28px;
+        font-size: 3rem;
         border: none;
         border-radius: 30px;
         cursor: pointer;
@@ -77,9 +75,9 @@
 
     #celebration {
         display: none;
-        font-size: 1.8rem;
+        font-size: 3.4rem;
         margin-top: 25px;
-        animation: pop 0.6s ease forwards;
+        animation: pop 10.0s ease forwards;
     }
 
     .signature {
@@ -97,7 +95,7 @@
         position: fixed;
         bottom: -20px;
         font-size: 20px;
-        animation: float 5s linear infinite;
+        animation: float 10s linear infinite;
         opacity: 0.8;
     }
 
@@ -117,7 +115,7 @@
     <div class="countdown" id="countdown"></div>
 
     <div id="buttons">
-        <button class="yes1" onclick="sayYes()">Yes 💖</button>
+        <button class="yes1" onclick="sayYes()">Yesssss!!!!!</button>
         <button class="yes2" onclick="sayYes()">Yesssss!!!</button>
     </div>
 
